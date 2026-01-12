@@ -1,3 +1,8 @@
+print("bot file started")
+
+import os
+print("token exists:", "DISCORD_TOKEN" in os.environ)
+
 import os
 import discord
 from discord.ext import commands
