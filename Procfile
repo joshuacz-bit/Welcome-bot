@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: echo hello-from-railway && sleep 300
